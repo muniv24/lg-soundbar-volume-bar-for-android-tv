@@ -41,13 +41,13 @@ So I built a tiny app that draws it: **Volume Bar for Android TV**.
 - Press volume and a small box shows `Volume 29%` with a bar, top right, for 2.5 seconds.
 - Hold the button and the number keeps moving, then settles on what the soundbar really reports.
 - When sound plays on the TV's own speakers, it stays hidden, because the TV shows its own bar.
-- It starts when the TV starts. No internet, no ads, no tracking.
+- It starts when the TV starts. No ads, no tracking, and it never goes on the internet.
 
 It's free and open source: **[github.com/muniv24/lg-soundbar-volume-bar-for-android-tv](https://github.com/muniv24/lg-soundbar-volume-bar-for-android-tv)**
 
 ## Try it
 
-You need a computer with `adb` once, to install it and allow it to show over other apps. The [README](../README.md) has the 3 commands.
+No computer needed: you download it on the TV with the free Downloader app, and the app sets up its own permission. The [README](../README.md) has the steps.
 
 I've tested it on a Xiaomi / Redmi Android TV with an LG soundbar. If you have another TV or soundbar, please try it and [open an issue](https://github.com/muniv24/lg-soundbar-volume-bar-for-android-tv/issues) with the result. That's how this gets better for everyone.
 

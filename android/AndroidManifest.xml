@@ -8,6 +8,9 @@
     <!-- Keeps listening for volume changes in the background. -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+    <!-- Only for "Set up automatically": talks to the TV's own debugging on 127.0.0.1 (LocalAdb).
+         The app never connects to the internet. -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- Starts again by itself after the TV restarts. -->
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 

@@ -12,14 +12,11 @@
         android:text="@string/tagline" android:textSize="18sp" android:textColor="#FFA0A0AF" />
 
     <TextView android:id="@+id/status" android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:paddingTop="32dp" android:paddingBottom="12dp" android:textSize="20sp" />
-
-    <TextView android:id="@+id/command" android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:paddingBottom="12dp" android:textSize="18sp" android:textColor="#FFFFFFFF"
-        android:fontFamily="monospace" android:visibility="gone"
-        android:text="adb shell appops set com.muniv24.volumebar SYSTEM_ALERT_WINDOW allow" />
+        android:paddingTop="32dp" android:paddingBottom="12dp" android:textSize="20sp"
+        android:lineSpacingExtra="4dp" />
 
     <Button android:id="@+id/toggle" style="@style/TvButton" />
     <Button android:id="@+id/test" style="@style/TvButton" android:text="@string/test" />
     <Button android:id="@+id/allow" style="@style/TvButton" android:text="@string/allow" />
+    <Button android:id="@+id/auto" style="@style/TvButton" android:text="@string/auto" />
 </LinearLayout>
