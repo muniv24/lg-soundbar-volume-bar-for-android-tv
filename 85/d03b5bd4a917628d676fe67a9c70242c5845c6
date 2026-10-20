@@ -1,0 +1,19 @@
+README.md
+  s_1314fb2651765c::t_2d1e8dfd0ea62a 9-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "85d03b5bd4a917628d676fe67a9c70242c5845c6",
+  "prompts": {},
+  "sessions": {
+    "s_1314fb2651765c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb67028e-06ff-4d81-95a2-17e655f90ef1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "muniv24 <13731621+muniv24@users.noreply.github.com>"
+    }
+  }
+}
