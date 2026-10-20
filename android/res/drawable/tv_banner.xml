@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Home screen tile: the green, yellow and red level bars, and a white volume bar under them. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp" android:height="180dp"
+    android:viewportWidth="320" android:viewportHeight="180">
+    <path android:fillColor="#1B2440" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#4CD07D" android:pathData="M104,96h28v28h-28z" />
+    <path android:fillColor="#FFC94A" android:pathData="M146,72h28v52h-28z" />
+    <path android:fillColor="#FF5E5E" android:pathData="M188,44h28v80h-28z" />
+    <path android:fillColor="#3A4566" android:pathData="M84,140h152v8h-152z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M84,140h96v8h-96z" />
+</vector>

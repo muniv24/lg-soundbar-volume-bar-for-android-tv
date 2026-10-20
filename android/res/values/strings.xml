@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Volume Bar</string>
+    <string name="tagline">Shows your soundbar\'s volume on screen when the TV doesn\'t.</string>
+    <string name="status_ready">Ready. Press volume up or down on your remote.</string>
+    <string name="status_needs_permission">One step left: allow Volume Bar to show over other apps.</string>
+    <string name="status_no_screen">This TV has no screen for that permission. Run this once from a computer:</string>
+    <string name="bar_on">Volume bar: ON</string>
+    <string name="bar_off">Volume bar: OFF</string>
+    <string name="test">Show a test</string>
+    <string name="allow">Allow show over other apps</string>
+    <string name="volume">Volume  %1$d%%</string>
+    <string name="muted">Muted</string>
+    <string name="channel">Volume bar</string>
+</resources>
