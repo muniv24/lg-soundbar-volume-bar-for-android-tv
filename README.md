@@ -2,6 +2,8 @@
 
 A tiny Android TV app (about 20 KB) that shows your **soundbar's volume level on screen** as `Volume 29%` with a bar.
 
+![The volume bar on a Xiaomi TV with an LG soundbar on eARC](docs/images/volume-bar.png)
+
 It is for TVs that hide their own volume bar once a soundbar is connected over **HDMI eARC / ARC**, and for soundbars with no number display. Many LG soundbars only show the level as a coloured light (green, yellow, red), so you never know the real number.
 
 ## How it works
